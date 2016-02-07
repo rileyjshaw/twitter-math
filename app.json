@@ -1,7 +1,6 @@
 {
-  "name": "Node.js Getting Started",
-  "description": "A barebones Node.js app using Express 4",
-  "repository": "https://github.com/heroku/node-js-getting-started",
-  "logo": "http://node-js-sample.herokuapp.com/node.svg",
-  "keywords": ["node", "express", "static"]
+	"name": "twitter-math",
+	"description": "A math fact spewing twitter bot",
+	"repository": "https://github.com/rileyjshaw/twitter-math",
+	"keywords": ["twitter", "math", "facts", "quiz"]
 }
